@@ -1,0 +1,28 @@
+_repo: Sous-le-burnous_17809
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: France, Hector
+    birthdate: 1837
+    deathdate: 1908
+    gutenberg_agent_id: '3772'
+    url: http://www.gutenberg.org/2009/agents/3772
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2006-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17809'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Algeria -- Fiction'
+- !lcsh 'Algeria -- Social life and customs -- Fiction'
+- !lcc 'PQ'
+title: Sous le burnous
+url: http://www.gutenberg.org/ebooks/17809
